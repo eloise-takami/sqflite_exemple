@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Flutter](https://flutter.dev/?gclid=CjwKCAjwr56IBhAvEiwA1fuqGuuL6xMtSn6bn5ZFHu5BoCB92NWpMj0gjLCmPpmbANQuCkqJ-SRxBxoCPfEQAvD_BwE&gclsrc=aw.ds)
 - [Dart](https://dart.dev/get-dart)
-- [SQLlite]
+- [SQLlite](https://www.sqlite.org/index.html)
 - [VS Code](https://code.visualstudio.com/download)
 
 ## 💻 Projeto
