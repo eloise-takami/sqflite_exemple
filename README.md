@@ -13,10 +13,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="BeTheHero" src="app.png" width="20%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
